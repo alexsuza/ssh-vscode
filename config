@@ -1,0 +1,4 @@
+Host jobstill
+    HostName 3.87.23.136
+    User ubuntu
+    IdentityFile C:/Users/alexd/nothingtoseehere/fakepermissions.pem
